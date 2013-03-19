@@ -1,4 +1,7 @@
 Contents of ~/bin
 
 #brightdown.sh and brightup.sh
-	Scripts to change backlight on Sony Vaio VPCCA4C5E due to broken DSDT. Linked to Fn+F5 and Fn+F6 in i3 config.
+Scripts to change backlight on Sony Vaio VPCCA4C5E due to broken DSDT. Linked to Fn+F5 and Fn+F6 in i3 config.
+
+#color.sh
+Script to show terminal colorscheme.
